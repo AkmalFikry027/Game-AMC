@@ -1,0 +1,13 @@
+upload the image in line (pine_img, pine2_img, mountain_img, sky_img )
+
+buttom image (start_img, exit_img, restart_img)
+
+add tile image path 
+
+Bullet and Item Box Image Loading
+
+Animation Image Loading (img = pygame.image.load()  # Line 108)
+
+line 408 --- similar to line 350, the CSV file path is missing.
+
+
