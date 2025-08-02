@@ -2,12 +2,21 @@ upload the image in line (pine_img, pine2_img, mountain_img, sky_img )
 
 buttom image (start_img, exit_img, restart_img)
 
-add tile image path 
+add tile image path ( create a game name and 2 path ways to start the game)
 
-Bullet and Item Box Image Loading
+Bullet and Item Box(key) Image Loading
 
 Animation Image Loading (img = pygame.image.load()  # Line 108)
 
 line 408 --- similar to line 350, the CSV file path is missing.
 
+
+only run and jump(only for running time)
+shooting (i had)
+remove the amor
+heart image received 
+
+
+Check if player is touching a climbable tile (e.g., ladder)
+Assuming ladder tiles are in range 9-10 (modify as needed based on your tile set)
 
